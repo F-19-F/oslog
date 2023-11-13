@@ -15,6 +15,8 @@
 #include <sys/types.h>
 #include <sys/event.h>
 #include <sys/time.h>
+#include <Foundation/Foundation.h>
+#include <CoreFoundation/CoreFoundation.h>
 #include "ActivityStreamAPI.h"
 //#define RESET   "\033[0m"
 //#define BOLDWHITE   "\033[1m\033[37m" 
